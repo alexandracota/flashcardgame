@@ -1,0 +1,23 @@
+{
+  "name": "flashcardgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandracota/flashcardgame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandracota/flashcardgame/issues"
+  },
+  "homepage": "https://github.com/alexandracota/flashcardgame#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "require": "^2.4.20"
+  }
+}
